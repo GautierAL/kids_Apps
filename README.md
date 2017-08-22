@@ -1,2 +1,3 @@
 # kids_Apps
 regroupe les applications web et mobiles pour enfants
+Les langages de programmation peuvent être : HTML, CSS, javascrip, PHP, java,...
